@@ -1,7 +1,5 @@
 # CollabBoard
 
-![CollabBoard Banner](https://via.placeholder.com/1200x300?text=CollabBoard+AI-Powered+Whiteboard) <!-- Placeholder; replace with actual image if available -->
-
 ## Overview
 
 CollabBoard is a real-time collaborative whiteboard application inspired by tools like Miro, built with an AI-first development approach. It features an infinite canvas for brainstorming, sticky notes, shapes, connectors, and an integrated AI agent that responds to natural language commands for creating and manipulating board elements. This project was developed as part of a one-week sprint challenge, emphasizing multiplayer synchronization, conflict resolution, and AI integration.
